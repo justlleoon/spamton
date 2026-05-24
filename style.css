@@ -323,6 +323,21 @@ h4 {
     margin-right: 10vw;
 }
 
+.faq1 h2, .goober1 {
+    background-color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+
+.faq2 h2, .goober2 {
+    background-color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+
+.faq3 h2, .goober3 {
+    background-color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+
 .diehard {
     border: 1px solid rgba(255, 243,  1, 0.7);
     padding: 20px 40px;
