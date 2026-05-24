@@ -324,18 +324,18 @@ h4 {
 }
 
 .faq1 h2, .goober1 {
-    background-color: rgba(0, 0, 0, 0.6);
     cursor: pointer;
+    user-select: none;
 }
 
 .faq2 h2, .goober2 {
-    background-color: rgba(0, 0, 0, 0.6);
     cursor: pointer;
+    user-select: none;
 }
 
 .faq3 h2, .goober3 {
-    background-color: rgba(0, 0, 0, 0.6);
     cursor: pointer;
+    user-select: none;
 }
 
 .diehard {
